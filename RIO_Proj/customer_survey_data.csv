@@ -1,0 +1,6 @@
+response_id,survey_id,question_id,rating
+1,101,1,Highly Satisfied
+2,102,2,Satisfied
+3,103,3,Neutral
+4,104,4,Dissatisfied
+5,105,5,Highly Dissatisfied

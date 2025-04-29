@@ -1,0 +1,6 @@
+customer_id,name,email,age,gender
+1,Alice,alice@example.com,25,Female
+2,Bob,bob@example.com,34,Male
+3,Charlie,charlie@example.com,29,Male
+4,David,david@example.com,40,Male
+5,Emma,emma@example.com,31,Female
